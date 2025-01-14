@@ -1,0 +1,12 @@
+bertopic[visualization] 
+sentence-transformers
+#json
+pandas
+#os
+nltk
+spacy
+ipywidgets
+tqdm
+numpy==1.23.5
+matplotlib
+
